@@ -8,3 +8,4 @@ Adding rows in a matrix
  Split sentence into words and rebuild in new format
  Find the largest element in an array
 Selection sort and insertion sort
+Count vowels in a string
