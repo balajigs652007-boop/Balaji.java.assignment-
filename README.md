@@ -4,3 +4,4 @@ write a java code or finding the population of india and china
 Simple calculator
 Find sum and average of an array
 Adding rows in a matrix
+ String program using 3 methods
