@@ -6,3 +6,4 @@ Find sum and average of an array
 Adding rows in a matrix
  String program using 3 methods
  Split sentence into words and rebuild in new format
+ Find the largest element in an array
