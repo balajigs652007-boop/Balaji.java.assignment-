@@ -22,3 +22,4 @@ Accessing and Removing Elements in a LinkedList
 Absolute Distinct Values in Array
 Given an array of integers, return the number of distinct absolute values among the elements of the array.
 Given an array of integers and an integer K, find the indices of two elements whose sum is equal to K. Print the indices in ascending order. If no pair exists, return [-1, -1].
+You are given N strings of length M. Count the number of anagramic groups. Two strings are anagrams if they contain the same characters with the same frequencies.
