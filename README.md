@@ -18,3 +18,4 @@ Fibonacci program mentioned at the bottom
 Create a class which can shared by two objects (student)for name and marks in a subject
 Write a java prgm by using try catch and finally block for any arithmetic exception or array index out of bound exception
 Managing a To-Do List using ArrayList
+Accessing and Removing Elements in a LinkedList
