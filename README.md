@@ -10,3 +10,4 @@ Adding rows in a matrix
 Selection sort and insertion sort
 Count vowels in a string
  Reverse an array in place
+ Find the 2nd largest element
