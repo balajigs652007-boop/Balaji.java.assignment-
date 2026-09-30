@@ -7,3 +7,4 @@ Adding rows in a matrix
  String program using 3 methods
  Split sentence into words and rebuild in new format
  Find the largest element in an array
+Selection sort and insertion sort
