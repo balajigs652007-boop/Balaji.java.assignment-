@@ -1,9 +1,13 @@
-class Population {
-    public static void main(String[] args) {
-        long india = 1428627663L;
-        long china = 1410710000L;
+import java.util.Scanner;
 
-        System.out.println("Population of India: " + india);
-        System.out.println("Population of China: " + china);
+class CircleArea {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter radius: ");
+        double r = sc.nextDouble();
+
+        double area = Math.PI * r * r;
+        System.out.println("Area of circle = " + area);
     }
 }
