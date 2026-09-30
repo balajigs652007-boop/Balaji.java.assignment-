@@ -3,3 +3,4 @@ write a java code or finding the population of india and china
  Assign grade for marks above 90 & check pass/fail
 Simple calculator
 Find sum and average of an array
+Adding rows in a matrix
